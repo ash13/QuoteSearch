@@ -4,6 +4,7 @@ This module is created to find the author of a given quote.
 The dataset used for this module is Quotes-500k (https://github.com/ShivaliGoel/Quotes-500K).
 
 The current program does a simple check from the dataset to check if a user input quote is present in the dataset.
+If present, it returns the author of the quote, with the source ( if available ). 
 
 ## TODO : Future works
 ### 1. Use word embeddings
